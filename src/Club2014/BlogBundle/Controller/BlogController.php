@@ -17,6 +17,7 @@ class BlogController extends Controller
         /*$request = $this->getRequest();
         $tag = $request->query->get('tag');
         return new Response("Affichage de l'article d'id : ".$id.", avec le tag ".$tag);*/
+        return $this->render('Club2014BlogBundle:Blog:voir.html.twig', array('id' => $id));
     }
 
     public function ajouterAction()
