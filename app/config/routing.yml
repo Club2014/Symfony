@@ -1,0 +1,4 @@
+club2014_blog:
+    resource: "@Club2014BlogBundle/Resources/config/routing.yml"
+    prefix:   /blog
+

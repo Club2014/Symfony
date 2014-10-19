@@ -1,0 +1,27 @@
+Club2014blog_accueil:
+    path:       /{page}
+    defaults:   { _controller: Club2014BlogBundle:Blog:index , page: 1 }
+    requirements:
+        page:   \d*
+
+Club2014blog_voir:
+    path:       /article/{id}
+    defaults:   { _controller: Club2014BlogBundle:Blog:voir }
+    requirements:
+        id:     \d+
+
+Club2014blog_ajouter:
+    path:       /ajouter
+    defaults:   { _controller: Club2014BlogBundle:Blog:ajouter }
+
+Club2014blog_modifier:
+    path:       /modifier/{id}
+    defaults:   { _controller: Club2014BlogBundle:Blog:modifier }
+    requirements:
+        id:   \d+
+
+Club2014blog_supprimer:
+    path:       /supprimer/{id}
+    defaults:   { _controller: Club2014BlogBundle:Blog:supprimer }
+    requirements:
+        id:   \d+
