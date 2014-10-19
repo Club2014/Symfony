@@ -14,9 +14,9 @@ class BlogController extends Controller
 
     public function voirAction($id)
     {
-    	$request = $this->getRequest();
-    	$tag = $request->query->get('tag');
-        return new Response("Affichage de l'article d'id : ".$id.", avec le tag ".$tag);
+        /*$request = $this->getRequest();
+        $tag = $request->query->get('tag');
+        return new Response("Affichage de l'article d'id : ".$id.", avec le tag ".$tag);*/
     }
 
     public function ajouterAction()
