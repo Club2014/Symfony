@@ -1,14 +1,7 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Bienvenue sur ma page</title>
-	</head>
-	<body>
-		<h1>Hello {{ nom }} !</h1>
-		<p>Le Hello World est un grand classique en programmation.
-            Il signifie énormément, car cela veut dire que vous avez
-            réussi à exécuter le programme pour accomplir une tâche simple :
-            afficher ce hello world !</p>
-        <p><a href="{{ path('Club2014blog_ajouter')}}">test</a></p>
-	</body>
-</html>
+{% extends "Club2014BlogBundle::layout.html.twig" %}
+
+{% block title %}{{ parent() }} - Index{% endblock %}
+
+{% block body %}
+    OK, mon blog sera trop bien !
+{% endblock %}
