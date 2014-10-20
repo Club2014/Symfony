@@ -17,6 +17,20 @@ class BlogController extends Controller
         /*$request = $this->getRequest();
         $tag = $request->query->get('tag');
         return new Response("Affichage de l'article d'id : ".$id.", avec le tag ".$tag);*/
+
+        /*$response = new Response(json_encode(array('id' => $id)));
+        $response->headers->set('Content-Type', 'application/json');
+        return $response;*/
+
+        /*$mailer = $this->get('mailer');
+        $message = \Swift_Message::newInstance()
+        ->setSubject('Hello zéro !')
+        ->setFrom('tuto@symfony2.com')
+        ->setTo('antoinebienvenuab@gmail.com')
+        ->setBody('Test symfony2');
+        $mailer->send($message);
+        return new Response('Email bien envoyé');*/
+
         return $this->render('Club2014BlogBundle:Blog:voir.html.twig', array('id' => $id));
     }
 
