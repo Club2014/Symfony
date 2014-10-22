@@ -1,7 +1,19 @@
 {% extends "Club2014BlogBundle::layout.html.twig" %}
 
-{% block title %}{{ parent() }} - Index{% endblock %}
+{% block title %}Accueil -  {{ parent() }}{% endblock %}
 
-{% block body %}
-    OK, mon blog sera trop bien !
+{% block Club2014_body %}
+    <h2>Liste des articles</h2>
+
+    <ul>
+        {% for article in articles %}
+            <li>
+                <a href="{{ path('Club2014blog_voir', {'id':article.id}) }}">{{ article.titre }}</a>
+                par {{ article.auteur }},
+                le {{ article.date|date('d/m/Y') }}
+            </li>
+        {% else %}
+            <li>Pas (encore) d'articles</li>
+        {% endfor %}
+    </ul>
 {% endblock %}

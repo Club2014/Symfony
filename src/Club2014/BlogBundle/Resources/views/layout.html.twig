@@ -1,11 +1,14 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>{% block title %}Club2014Blog{% endblock %}</title>
-	</head>
-	<body>
-		{% block body %}
-        {% endblock %}
-	</body>
-</html>
+{% extends "::layout.html.twig" %}
+
+{% block title %}
+    Blog - {{ parent() }}
+{% endblock %}
+
+{% block body %}
+    <h1>Blog</h1>
+
+    <hr>
+
+    {% block Club2014_body %}
+    {% endblock %}
+{% endblock %}

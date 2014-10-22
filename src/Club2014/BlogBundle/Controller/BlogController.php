@@ -12,7 +12,7 @@ class BlogController extends Controller
         if ($page < 1) {
             throw $this->createNotFoundException('Page inexistante (page = '.$page.') ');
         }
-        return $this->render('Club2014BlogBundle:Blog:index.html.twig');
+        return $this->render('Club2014BlogBundle:Blog:index.html.twig', array('articles' => array()));
     }
 
     public function voirAction($id)
@@ -54,5 +54,14 @@ class BlogController extends Controller
     public function supprimerAction($id)
     {
         return $this->render('Club2014BlogBundle:Blog:supprimer.html.twig');
+    }
+
+    public function menuAction($nombre)
+    {
+        $liste = array(
+            array('id' => 2, 'titre' => 'Mon dernier weekend !'),
+            array('id' => 5, 'titre' => 'Sortie de Symfony2.1'),
+            array('id' => 9, 'titre' => 'Petit test')
+        );
     }
 }
