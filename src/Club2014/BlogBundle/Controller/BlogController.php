@@ -12,7 +12,25 @@ class BlogController extends Controller
         if ($page < 1) {
             throw $this->createNotFoundException('Page inexistante (page = '.$page.') ');
         }
-        return $this->render('Club2014BlogBundle:Blog:index.html.twig', array('articles' => array()));
+
+        $articles = array(
+            array('titre' => 'Mon weekend à Orlando !',
+            'id' => 1,
+            'auteur' => 'Moi',
+            'contenu' => 'Ce weekend était trop bien.',
+            'date' => new \DateTime()),
+            array('titre' => 'Repetition du 14 juillet',
+                'id' => 2,
+                'auteur' => 'Moi',
+                'contenu' => 'Bientot pret pour le jour j',
+                'date' => new \DateTime()),
+            array('titre' => 'Chiffre d\'affaire en hausse',
+                'id' => 3,
+                'auteur' => 'Moi',
+                'contenu' => '+500% sur 1 an, fabuleux.',
+                'date' => new \DateTime())
+        );
+        return $this->render('Club2014BlogBundle:Blog:index.html.twig', array('articles' => $articles));
     }
 
     public function voirAction($id)
@@ -33,8 +51,15 @@ class BlogController extends Controller
         ->setBody('Test symfony2');
         $mailer->send($message);
         return new Response('Email bien envoyé');*/
+        $article = array(
+            'id' => 1,
+            'titre' => 'Mon weekend à Orlando !',
+            'auteur' => 'Moi',
+            'contenu' => 'Ce weekend était trop bien.',
+            'date' => new \DateTime()
+        );
 
-        return $this->render('Club2014BlogBundle:Blog:voir.html.twig', array('id' => $id));
+        return $this->render('Club2014BlogBundle:Blog:voir.html.twig', array('article' => $article));
     }
 
     public function ajouterAction()
@@ -63,5 +88,7 @@ class BlogController extends Controller
             array('id' => 5, 'titre' => 'Sortie de Symfony2.1'),
             array('id' => 9, 'titre' => 'Petit test')
         );
+
+        return $this->render('Club2014BlogBundle:Blog:menu.html.twig', array('liste_articles' => $liste));
     }
 }

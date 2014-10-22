@@ -1,9 +1,29 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Lecture de l'article {{ id }}</title>
-	</head>
-	<body>
-		<h1>Hello Article n°{{ id }} !</h1>
-	</body>
-</html>
+{% extends "Club2014BlogBundle::layout.html.twig" %}
+
+{% block title %}
+    Lecture d'un article - {{ parent() }}
+{% endblock %}
+
+{% block Club2014_body %}
+    <h2>{{ article.titre }}</h2>
+    <i>Par {{ article.auteur }}, le {{ article.date|date('d/m/Y') }}</i>
+
+    <div class="well">
+        {{ article.contenu }}
+    </div>
+
+    <p>
+        <button type="button" href="{{ path('Club2014blog_accueil') }}" class="btn btn-info">
+            <i class="glyphicon glyphicon-chevron-left"></i>
+            Retour à la liste
+        </button>
+        <button type="button" href="{{ path('Club2014blog_modifier', {'id': article.id}) }}" class="btn btn-info">
+            <i class="glyphicon glyphicon-edit"></i>
+            Modifier l'article
+        </button>
+        <button type="button" href="{{ path('Club2014blog_supprimer', {'id': article.id}) }}" class="btn btn-info">
+            <i class="glyphicon glyphicon-trash"></i>
+            Supprimer l'article
+        </button>
+    </p>
+{% endblock %}
