@@ -1,0 +1,22 @@
+{% extends "Club2014BlogBundle::layout.html.twig" %}
+
+{% block title %}
+    Modifier un article - {{ parent() }}
+{% endblock %}
+
+{% block Club2014_body %}
+    <h2>Modifier un article</h2>
+
+    {% include "Club2014BlogBundle:Blog:formulaire.html.twig" %}
+
+    <p>
+        Vous editez un article déjà existant.
+    </p>
+
+    <p>
+        <a href="{{ path('Club2014blog_voir', {'id': article.id}) }}" class="btn btn-info">
+            <i class="glyphicon glyphicon-chevron-left"></i>
+            Retour à l'article
+        </a>
+    </p>
+{% endblock %}

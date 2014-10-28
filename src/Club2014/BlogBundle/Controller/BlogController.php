@@ -73,7 +73,15 @@ class BlogController extends Controller
 
     public function modifierAction($id)
     {
-        return $this->render('Club2014BlogBundle:Blog:modifier.html.twig');
+        $article = array(
+            'id' => 1,
+            'titre' => 'Mon weekend à Orlando !',
+            'auteur' => 'Moi',
+            'contenu' => 'Ce weekend était trop bien.',
+            'date' => new \DateTime()
+        );
+
+        return $this->render('Club2014BlogBundle:Blog:modifier.html.twig', array('article' => $article));
     }
 
     public function supprimerAction($id)
