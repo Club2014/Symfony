@@ -163,4 +163,27 @@ class Article
     {
         return $this->contenu;
     }
+
+    /**
+     * Set publication
+     *
+     * @param boolean $publication
+     * @return Article
+     */
+    public function setPublication($publication)
+    {
+        $this->publication = $publication;
+
+        return $this;
+    }
+
+    /**
+     * Get publication
+     *
+     * @return boolean 
+     */
+    public function getPublication()
+    {
+        return $this->publication;
+    }
 }
