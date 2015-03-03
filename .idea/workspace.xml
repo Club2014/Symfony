@@ -2,130 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5793d65-d957-46cd-acf9-44754d9c5d57" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\CreateDatabaseDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\DoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\DropDatabaseDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\GenerateEntitiesDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\ImportMappingDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\ClearMetadataCacheDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\ClearQueryCacheDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\ClearResultCacheDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\ConvertMappingDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\CreateSchemaDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\DoctrineCommandHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\DropSchemaDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\EnsureProductionSettingsDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\InfoDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\RunDqlDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\RunSqlDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\UpdateSchemaDoctrineCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Command\Proxy\ValidateSchemaCommand.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\ConnectionFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Controller\ProfilerController.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\DataCollector\DoctrineDataCollector.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\DependencyInjection\Configuration.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\DependencyInjection\DoctrineExtension.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\DoctrineBundle.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\ManagerConfigurator.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Mapping\ClassMetadataCollection.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Mapping\DisconnectedMetadataFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Mapping\MetadataFactory.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Registry.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Resources\config\dbal.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Resources\config\orm.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Resources\config\schema\doctrine-1.0.xsd" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Resources\doc\configuration.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Resources\doc\installation.rst" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Resources\views\Collector\db.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Resources\views\Collector\explain.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\BundleTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\ContainerTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\AbstractDoctrineExtensionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\Bundles\AnnotationsBundle\AnnotationsBundle.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\Bundles\AnnotationsBundle\Entity\Test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\Bundles\XmlBundle\Entity\Test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\Bundles\XmlBundle\Resources\config\doctrine\Test.orm.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\Bundles\XmlBundle\XmlBundle.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\Bundles\YamlBundle\Entity\Test.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\Bundles\YamlBundle\Resources\config\doctrine\Test.orm.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\Bundles\YamlBundle\YamlBundle.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\dbal_logging.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\dbal_schema_filter.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\dbal_service_multiple_connections.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\dbal_service_single_connection.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\dbal_service_single_master_slave_connection.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\dbal_types.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_filters.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_functions.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_hydration_mode.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_imports.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_imports_import.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_multiple_em_bundle_mappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_namingstrategy.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_proxy.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_resolve_target_entity.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_service_multiple_entity_managers.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_service_simple_single_entity_manager.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_service_single_entity_manager.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_single_em_bundle_mappings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\xml\orm_single_em_dql_functions.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\dbal_logging.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\dbal_schema_filter.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\dbal_service_multiple_connections.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\dbal_service_single_connection.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\dbal_service_single_master_slave_connection.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\dbal_types.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_filters.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_functions.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_hydration_mode.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_imports.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_imports_import.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_multiple_em_bundle_mappings.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_namingstrategy.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_resolve_target_entity.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_service_multiple_entity_managers.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_service_simple_single_entity_manager.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_service_single_entity_manager.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_single_em_bundle_mappings.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\Fixtures\config\yml\orm_single_em_dql_functions.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\TestDatetimeFunction.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\TestFilter.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\TestNumericFunction.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\TestStringFunction.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\TestType.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\XMLSchemaTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\XmlDoctrineExtensionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\DependencyInjection\YamlDoctrineExtensionTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\Mapping\MetadataFactoryTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\RegistryTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Tests\bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\Twig\DoctrineExtension.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\composer.json" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Symfony\vendor\doctrine\doctrine-bundle\Doctrine\Bundle\DoctrineBundle\phpunit.xml.dist" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/lib/Twig/Extensions/Grammar.php" afterPath="$PROJECT_DIR$/vendor/twig/extensions/lib/Twig/Extensions/Grammar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/lib/Twig/Extensions/Extension/Intl.php" afterPath="$PROJECT_DIR$/vendor/twig/extensions/lib/Twig/Extensions/Extension/Intl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/lib/Twig/Extensions/Node/Trans.php" afterPath="$PROJECT_DIR$/vendor/twig/extensions/lib/Twig/Extensions/Node/Trans.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/lib/Twig/Extensions/TokenParser/Trans.php" afterPath="$PROJECT_DIR$/vendor/twig/extensions/lib/Twig/Extensions/TokenParser/Trans.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/test/Twig/Tests/Node/TransTest.php" afterPath="$PROJECT_DIR$/vendor/twig/extensions/test/Twig/Tests/Node/TransTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/doc/array.rst" afterPath="$PROJECT_DIR$/vendor/twig/extensions/doc/array.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/autoload.php" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/composer.json" afterPath="$PROJECT_DIR$/vendor/twig/extensions/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/doc/i18n.rst" afterPath="$PROJECT_DIR$/vendor/twig/extensions/doc/i18n.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/doc/index.rst" afterPath="$PROJECT_DIR$/vendor/twig/extensions/doc/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/composer/installed.json" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/doc/intl.rst" afterPath="$PROJECT_DIR$/vendor/twig/extensions/doc/intl.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/twig/extensions/doc/text.rst" afterPath="$PROJECT_DIR$/vendor/twig/extensions/doc/text.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/prod.log" afterPath="$PROJECT_DIR$/app/logs/prod.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Symfony.iws" />
@@ -156,7 +34,7 @@
           <file leaf-file-name="BlogController.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Controller/BlogController.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-24.038462" vertical-offset="769" max-vertical-offset="1802">
+                <state vertical-scroll-proportion="-53.615383" vertical-offset="0" max-vertical-offset="1802">
                   <caret line="83" column="105" selection-start-line="83" selection-start-column="105" selection-end-line="83" selection-end-column="105" />
                   <folding />
                 </state>
@@ -173,10 +51,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Article.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Article.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Entity/Article.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-2.2214613" vertical-offset="2439" max-vertical-offset="3315">
+                <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="3315">
                   <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                   <folding />
                 </state>
@@ -193,10 +71,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
+          <file leaf-file-name="routing.yml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/config/routing.yml">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="902">
                   <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
@@ -242,7 +120,10 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="578">
                   <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-                  <folding />
+                  <folding>
+                    <element signature="e#376#396#0#Twig" expanded="true" />
+                    <element signature="e#776#798#0#Twig" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -250,27 +131,27 @@
           <file leaf-file-name="modifier.html.twig" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/views/Blog/modifier.html.twig">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="459">
+                <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
                   <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="formulaire.html.twig" pinned="false" current-in-tab="true">
+          <file leaf-file-name="formulaire.html.twig" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/views/Blog/formulaire.html.twig">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.07762557" vertical-offset="0" max-vertical-offset="876">
+                <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="170">
                   <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/views/Blog/index.html.twig">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
+                <state vertical-scroll-proportion="0.36872146" vertical-offset="0" max-vertical-offset="876">
                   <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                   <folding />
                 </state>
@@ -355,6 +236,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -637,7 +519,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -663,15 +544,15 @@
       <BehatRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
       <tasks />
       <pass-parent-env-vars>false</pass-parent-env-vars>
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <list size="0" />
@@ -708,13 +589,13 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -760,7 +641,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#376#396#0#Twig" expanded="true" />
+            <element signature="e#776#798#0#Twig" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -823,7 +707,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#376#396#0#Twig" expanded="true" />
+            <element signature="e#776#798#0#Twig" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -870,7 +757,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#376#396#0#Twig" expanded="true" />
+            <element signature="e#776#798#0#Twig" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -917,7 +807,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#376#396#0#Twig" expanded="true" />
+            <element signature="e#776#798#0#Twig" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -957,7 +850,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#376#396#0#Twig" expanded="true" />
+            <element signature="e#776#798#0#Twig" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -997,7 +893,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#376#396#0#Twig" expanded="true" />
+            <element signature="e#776#798#0#Twig" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1030,14 +929,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/views/Blog/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="425">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/layout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="4" max-vertical-offset="901">
@@ -1058,15 +949,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="578">
           <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/views/Blog/modifier.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="459">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding />
+          <folding>
+            <element signature="e#376#396#0#Twig" expanded="true" />
+            <element signature="e#776#798#0#Twig" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1074,22 +960,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.05654102" vertical-offset="0" max-vertical-offset="902">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23287672" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/views/Blog/modifier.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/config/routing.yml">
+    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/views/Blog/formulaire.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
+        <state vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="170">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Entity/ArticleRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="902">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Entity/Article.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="3315">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1104,40 +1012,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Controller/BlogController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-24.038462" vertical-offset="769" max-vertical-offset="1802">
+        <state vertical-scroll-proportion="-53.615383" vertical-offset="0" max-vertical-offset="1802">
           <caret line="83" column="105" selection-start-line="83" selection-start-column="105" selection-end-line="83" selection-end-column="105" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Entity/ArticleRepository.php">
+    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/views/Blog/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="902">
+        <state vertical-scroll-proportion="0.36872146" vertical-offset="0" max-vertical-offset="876">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23287672" vertical-offset="0" max-vertical-offset="1156">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Entity/Article.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.2214613" vertical-offset="2439" max-vertical-offset="3315">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Club2014/BlogBundle/Resources/views/Blog/formulaire.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07762557" vertical-offset="0" max-vertical-offset="876">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="923">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
